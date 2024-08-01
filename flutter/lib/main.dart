@@ -50,7 +50,7 @@ class _SensorDataPageState extends State<SensorDataPage> {
     });
 
     try {
-      final response = await http.get(Uri.parse('http://192.168.3.61:8080'));
+      final response = await http.get(Uri.parse('http://IP_GERADO_ESP32:PORTA'));
 
       if (response.statusCode == 200) {
         var jsonResponse = json.decode(response.body);
