@@ -15,20 +15,6 @@ O repositório está dividido em duas pastas principais:
 - **`esp32/`**: Contém o código MicroPython para o ESP32, que coleta dados de um sensor DHT11 e os disponibiliza via HTTP.
 - **`flutter/`**: Contém o aplicativo Flutter que consome os dados do ESP32 e apresenta gráficos de temperatura e umidade.
 
-## Estrutura de Pastas
-
-
-esp32-flutter-monitoring/
-├── esp32/
-│ └── main.py # Código MicroPython para o ESP32
-└── flutter/
-├── android/ # Configurações específicas do Android
-├── ios/ # Configurações específicas do iOS
-├── lib/
-│ └── main.dart # Código principal do aplicativo Flutter
-├── pubspec.yaml # Arquivo de configuração do Flutter
-└── ... # Outros arquivos e pastas do Flutter
-
 ## Configuração do ESP32
 
 1. **Conexão Wi-Fi**:
