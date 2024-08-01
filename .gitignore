@@ -1,0 +1,60 @@
+# Flutter related
+projeto-flutter/.dart_tool/
+projeto-flutter/.flutter-plugins
+projeto-flutter/.flutter-plugins-dependencies
+projeto-flutter/.packages
+projeto-flutter/.pub-cache/
+projeto-flutter/.pub/
+
+# Build related
+projeto-flutter/build/
+
+# iOS related
+projeto-flutter/.generated/
+projeto-flutter/ios/Pods/
+projeto-flutter/ios/Flutter/Flutter.framework
+projeto-flutter/ios/Flutter/Flutter.podspec
+projeto-flutter/ios/Runner.xcworkspace/
+projeto-flutter/ios/Runner.xcodeproj/project.xcworkspace/
+projeto-flutter/ios/Runner.xcodeproj/xcuserdata/
+projeto-flutter/ios/Runner/GeneratedPluginRegistrant.h
+projeto-flutter/ios/Runner/GeneratedPluginRegistrant.m
+projeto-flutter/ios/Flutter/App.framework
+projeto-flutter/ios/Flutter/Flutter.podspec
+projeto-flutter/ios/ServiceDefinitions.json
+
+# Android related
+projeto-flutter/.gradle/
+projeto-flutter/.idea/
+projeto-flutter/.local/
+projeto-flutter/.log/
+projeto-flutter/.settings/
+projeto-flutter/.externalNativeBuild/
+projeto-flutter/.cxx/
+projeto-flutter/.DS_Store
+projeto-flutter/.project
+projeto-flutter/.tmproj
+projeto-flutter/*.iml
+projeto-flutter/app/release/
+projeto-flutter/app/debug/
+projeto-flutter/android/app/release/
+projeto-flutter/android/app/debug/
+projeto-flutter/android/gradle/
+projeto-flutter/android/.gradle/
+projeto-flutter/android/build/
+projeto-flutter/android/app/build/
+projeto-flutter/android/.settings/
+projeto-flutter/android/.externalNativeBuild/
+projeto-flutter/android/.cxx/
+
+# VS Code related
+projeto-flutter/.vscode/
+
+# IntelliJ related
+projeto-flutter/.idea/
+
+# Miscellaneous
+projeto-flutter/*.class
+projeto-flutter/*.log
+projeto-flutter/*.pyc
+projeto-flutter/*.swp
